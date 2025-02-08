@@ -42,7 +42,7 @@
       "@semantic-release/github",
       {
         "assets": [
-          { "path": "ncr", "name": "ncr" }
+          { "path": "ncr*" }
         ]
       }
     ]
